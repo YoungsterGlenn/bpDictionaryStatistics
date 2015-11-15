@@ -11212,6 +11212,7 @@ apricock
 apricocks
 apricot
 apricots
+april
 apriorism
 apriorisms
 apriorist
@@ -16032,6 +16033,7 @@ azotobacters
 azotous
 azoturia
 azoturias
+aztec
 azuki
 azukis
 azulejo
@@ -28107,6 +28109,7 @@ britannias
 britches
 brith
 briths
+british
 brits
 britschka
 britschkas
@@ -57003,6 +57006,7 @@ decelerometer
 decelerometers
 deceleron
 decelerons
+december
 decemvir
 decemviral
 decemvirate
@@ -91424,6 +91428,7 @@ frictionally
 frictionless
 frictionlessly
 frictions
+friday
 fridge
 fridged
 fridges
@@ -107074,6 +107079,7 @@ highrises
 highroad
 highroads
 highs
+highschool
 highspot
 highspots
 hight
@@ -115991,6 +115997,7 @@ indexless
 indexterities
 indexterity
 india
+indian
 indican
 indicans
 indicant
@@ -124203,6 +124210,7 @@ julienne
 julienned
 juliennes
 julienning
+july
 jumar
 jumared
 jumaring
@@ -141903,6 +141911,7 @@ mhorr
 mhorrs
 mhos
 mi
+mia
 miaou
 miaoued
 miaouing
@@ -146529,6 +146538,7 @@ mondain
 mondaine
 mondaines
 mondains
+monday
 monde
 mondegreen
 mondegreens
@@ -150059,6 +150069,7 @@ muskroot
 muskroots
 musks
 musky
+muslim
 muslin
 muslined
 muslinet
@@ -151494,6 +151505,7 @@ nativistic
 nativists
 nativities
 nativity
+nato
 natrium
 natriums
 natriureses
@@ -153471,6 +153483,7 @@ nigella
 nigellas
 niger
 nigers
+nigga
 niggard
 niggarded
 niggarding
@@ -158247,6 +158260,7 @@ octillionths
 octingenaries
 octingenary
 octingentenary
+october
 octocentenaries
 octocentenary
 octodecillion
@@ -159468,6 +159482,7 @@ onstage
 onstead
 onsteads
 onstream
+ontario
 ontic
 ontically
 onto
@@ -190823,6 +190838,7 @@ quebrachos
 queechier
 queechiest
 queechy
+queef
 queen
 queencake
 queencakes
@@ -204509,6 +204525,7 @@ romaunt
 romaunts
 romcom
 romcoms
+rome
 romeldale
 romeldales
 romeo
@@ -208469,6 +208486,7 @@ saturation
 saturations
 saturator
 saturators
+saturday
 saturnalia
 saturnalian
 saturnalianly
@@ -249951,6 +249969,7 @@ tucutuco
 tucutucos
 tucutucu
 tucutucus
+tuesday
 tufa
 tufaceous
 tufas
@@ -260412,6 +260431,7 @@ urushiols
 urva
 urvas
 us
+usa
 usabilities
 usability
 usable
@@ -261605,6 +261625,7 @@ vatful
 vatfuls
 vatic
 vatical
+vatican
 vaticide
 vaticides
 vaticinal
@@ -268593,6 +268614,7 @@ wifely
 wifes
 wifey
 wifeys
+wifi
 wifie
 wifies
 wifing
