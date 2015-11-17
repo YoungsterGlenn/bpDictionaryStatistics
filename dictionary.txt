@@ -121691,6 +121691,7 @@ ish
 ishes
 isinglass
 isinglasses
+isis
 isit
 island
 islanded
